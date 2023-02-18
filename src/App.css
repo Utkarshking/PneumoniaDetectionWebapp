@@ -1,0 +1,7 @@
+.spinnerflex{
+    display:flex;
+    flex-direction:row;
+}
+.valuechanger{
+    padding-left:15px;
+}

@@ -1,0 +1,4 @@
+machine_learning_model/__pycache__/
+machine_learning_model/.vscode/
+machine_learning_model/myenv/
+node_modules/
